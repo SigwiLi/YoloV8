@@ -1,6 +1,6 @@
 Introduction
 
-This was a personal project for practicing training and implementation of detection AI. I wanted the model to be able to go through different media to detect fish. Essentially, the model would go over the input (various types of media) and outline and give a confidence rating for teach object it thought was a fish. 
+This was a personal project for practicing training and implementation of detection AI. I wanted the model to be able to go through different media to detect fish. Essentially, the model would go over the input (various types of media) and outline and give a confidence rating for each object it thought was a fish. 
 
 Dataset
 
