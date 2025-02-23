@@ -10,8 +10,8 @@ Model
 
 I trained my model using YoloV8's pre-trained model. Given my lower-end GPU, it was not able to efficiently train the model with too many epochs, so I chose to use 3 Epochs, which would still give me a usable model within a timely matter. 
 
-Implmentation
+Implementation
 
-The code for implementation can be seen in 
+The code for implementation can be seen in fishdetection.py, where I used OpenCv2, as it was a good library to use within Python. This would open up a separate window displaying the media that you decide to input, in this case, a video, and would show the detection of the Fish via outlines and confidence levels. 
 
 
