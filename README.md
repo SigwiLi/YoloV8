@@ -2,9 +2,10 @@ Introduction
 
 This was a personal project for practicing training and implementation of detection AI. I wanted the model to be able to go through different media to detect fish. Essentially, the model would go over the input (various types of media) and outline and give a confidence rating for each object it thought was a fish. 
 
-Dataset
+Dataset- Fish5.v2i.yolob8.zip
 
-My dataset consisted of 11 images I took of my aquarium at my house, on my iPhone, which I then manually labeled and created a dataset using Roboflow. 
+Contains 72 total images, 31 train, 31 augmentated images, 6 images for valid set, 3 images for test set. Self-labeled and created through Roboflow
+
 
 Model
 
